@@ -1,0 +1,2 @@
+# fund_trading_record_crawler
+我的第一个用webdriver,beautifulsoup写的爬取东方基金历史交易记录的爬虫，存储的数据库为mongodb。
